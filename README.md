@@ -1,2 +1,2 @@
-# MNIST classification from scatch in NumPy
+# MNIST classification from scratch in NumPy
 
